@@ -4,7 +4,7 @@
 
 // Definiciones de la placa Heltec WiFi LoRa 32 V3
 #define BOARD_HELTEC_WIFI_LORA_32_V3 1
-#define SLOW_CLK_TYPE 0
+#define SLOW_CLK_TPYE 0
 
 /* OTAA para*/
 uint8_t devEui[] = {0x70, 0xB3, 0xD5, 0x7E, 0xD0, 0x07, 0x02, 0x37};
